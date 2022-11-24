@@ -1,0 +1,74 @@
+company,episode,season,start_season,end_season,proposal_value,proposal_participation ,proposal_valuation,agreement_value,agreement_participation,agreement_conditions,agreement_type,agreement_valuation,number_investors,name_investors
+Gourmetzinho,1,1,2016-10-10,2017-01-26,500000,0.2,2500000.0, 600000.00 ,0.6,no,participation,1000000,3,João Appolinário + Robinson Shiba + Sorocaba
+Revo Foot,1,1,2016-10-10,2017-01-26,400000,0.2,2000000.0,0,0.0,no,no investment, - ,0,no investment
+Velo,1,1,2016-10-10,2017-01-26,400000,0.2,2000000.0, 400000.00 ,0.5,no,participation,800000,2,Camila Farani + Cristiana Arcangeli
+Bosta em Lata,1,1,2016-10-10,2017-01-26,150000,0.3,500000.0,0,0.0,no,no investment, - ,0,no investment
+Mana Manutenção,2,1,2016-10-10,2017-01-26,100000,0.1,1000000.0, 100000.00 ,0.5,no,participation,200000,3,Camila Farani + Cristiana Arcangeli + Robinson Shiba
+Pensys Tecnologia,2,1,2016-10-10,2017-01-26,300000,0.05,6000000.0,0,0.0,no,no investment, - ,0,no investment
+Easy Carros,2,1,2016-10-10,2017-01-26,800000,0.04,20000000.0,0,0.0,no,no investment, - ,0,no investment
+Peter Paiva Saboaria,2,1,2016-10-10,2017-01-26,500000,0.2,2500000.0, 500000.00 ,0.5,no,participation,1000000,1,João Appolinário
+Futuriste,3,1,2016-10-10,2017-01-26,185000,0.15,1233333.33, 200000.00 ,0.25,no,participation,800000,1,Camila Farani
+Enlite,3,1,2016-10-10,2017-01-26,295000,0.05,5900000.0, 295000.00 ,0.35,no,participation,842857.14,1,Robinson Shiba
++55Canga,3,1,2016-10-10,2017-01-26,500000,0.1,5000000.0,0,0.0,no,no investment, - ,0,no investment
+Super Coole,3,1,2016-10-10,2017-01-26,500000,0.15,3333333.33,0,0.0,no,no investment, - ,0,no investment
+Egosss,4,1,2016-10-10,2017-01-26,250000,0.15,1666666.67, 300000.00 ,0.15,no,participation,2000000,1,Camila Farani
+Manicura Express,4,1,2016-10-10,2017-01-26,50000,0.07,714285.71,0,0.0,no,no investment, - ,0,no investment
+Rock Candy,4,1,2016-10-10,2017-01-26,900000,0.15,6000000.0,0,0.0,no,no investment, - ,0,no investment
+Dolce & Cane,4,1,2016-10-10,2017-01-26,100000,0.3,333333.33,0,0.0,no,no investment, - ,0,no investment
+NextAgro,4,1,2016-10-10,2017-01-26,300000,0.05,6000000.0,0,0.0,no,no investment, - ,0,no investment
+Embarcar,5,1,2016-10-10,2017-01-26,90000,0.1,900000.0,0,0.0,no,no investment, - ,0,no investment
+Rent a Bag,5,1,2016-10-10,2017-01-26,350000,0.07,5000000.0,0,0.0,no,no investment, - ,0,no investment
+Benditta Pipoca,5,1,2016-10-10,2017-01-26,400000,0.1,4000000.0,0,0.0,no,no investment, - ,0,no investment
+Beleza de Farmácia,5,1,2016-10-10,2017-01-26,150000,0.15,1000000.0, 150000.00 ,0.15,no,participation,1000000,1,Camila Farani
+Vela Bikes,6,1,2016-10-10,2017-01-26,20000000,0.05,400000000.0,0,0.0,no,no investment, - ,0,no investment
+You Tape,6,1,2016-10-10,2017-01-26,50000,0.2,250000.0,0,0.0,no,no investment, - ,0,no investment
+Lilycone,6,1,2016-10-10,2017-01-26,400000,0.3,1333333.33,0,0.0,no,no investment, - ,0,no investment
+QG Food Truck,6,1,2016-10-10,2017-01-26,180000,0.4,450000.0, 180000.00 ,0.4,no,participation,450000,2,João Appolinário + Robinson Shiba
+Portex,7,1,2016-10-10,2017-01-26,250000,0.08,3125000.0,0,0.0,no,no investment, - ,0,no investment
+Kitlivre,7,1,2016-10-10,2017-01-26,400000,0.05,8000000.0,0,0.0,no,no investment, - ,0,no investment
+Tress Cabelos,7,1,2016-10-10,2017-01-26,1000000,0.05,20000000.0, 1000000.00 ,0.5,no,participation,2000000,1,João Appolinário
+List It,7,1,2016-10-10,2017-01-26,200000,0.3,666666.67,0,0.0,no,mentoring, - ,1,Cristiana Arcangeli
+Vent7,8,1,2016-10-10,2017-01-26,200000,0.1,2000000.0, 300000.00 ,0.5,no,participation,600000,1,João Appolinário
+Jardim ô fiô,8,1,2016-10-10,2017-01-26,200000,0.1,2000000.0,0,0.0,no,no investment, - ,0,no investment
+Peau mature,8,1,2016-10-10,2017-01-26,300000,0.1,3000000.0,0,0.0,no,no investment, - ,0,no investment
+G2 std,8,1,2016-10-10,2017-01-26,590000,0.08,7375000.0,0,0.0,no,no investment, - ,0,no investment
+Safety print system,8,1,2016-10-10,2017-01-26,1500000,0.1,15000000.0,0,0.0,no,no investment, - ,0,no investment
+Getcook,9,1,2016-10-10,2017-01-26,200000,0.1,2000000.0, 200000.00 ,0.3,no,participation,666666.67,1,Sorocaba
+Caldo Natural,9,1,2016-10-10,2017-01-26,400000,0.15,2666666.67,0,0.0,no,help, - ,1,Carlos Wizard Martins
+Goleiro de Aluguel,9,1,2016-10-10,2017-01-26,250000,0.25,1000000.0, 250000.00 ,0.5,no,participation,500000,2,João Appolinário + Carlos Wizard Martins
+Kart Fly,9,1,2016-10-10,2017-01-26,600000,7.5%,8000000.0,0,0.0,no,no investment, - ,0,no investment
+Kuba,10,1,2016-10-10,2017-01-26,190000,0.1,1900000.0, 190000.00 ,0.5,no,participation,380000,3,João Appolinário + Sorocaba + Cristiana Arcangeli
+IMedical,10,1,2016-10-10,2017-01-26,450000,0.3,1500000.0,0,0.0,no,no investment, - ,0,no investment
+Chef Bob,10,1,2016-10-10,2017-01-26,150000,0.2,750000.0,0,0.0,no,no investment, - ,0,no investment
+Courrieros,10,1,2016-10-10,2017-01-26,400000,0.05,8000000.0,0,0.0,no,no investment, - ,0,no investment
+Bodout,11,1,2016-10-10,2017-01-26,200000,0.15,1333333.33, 200000.00 ,0.5,no,participation,400000,1,Cristiana Arcangeli
+Folha da bananeira,11,1,2016-10-10,2017-01-26,200000,0.2,1000000.0,0,0.0,no,no investment, - ,0,no investment
+Preshh,11,1,2016-10-10,2017-01-26,175000,0.2,875000.0,0,0.0,no,no investment, - ,0,no investment
+Tagine,11,1,2016-10-10,2017-01-26,250000,0.3,833333.33, food truck loan ,0.6,no,participation, - ,1,Robinson Shiba
+Naked,12,1,2016-10-10,2017-01-26,300000,0.1,3000000.0, 300000.00 ,0.35,yes,participation,857142.86,1,Cristiana Arcangeli
+Empório Sartori,12,1,2016-10-10,2017-01-26,500000,0.1,5000000.0,0,0.0,no,no investment, - ,0,no investment
+Armadilha seletiva para tubarões,12,1,2016-10-10,2017-01-26,300000,0.1,3000000.0,0,0.0,no,no investment, - ,0,no investment
+Horvath,12,1,2016-10-10,2017-01-26,300000,0.08,3750000.0,0,0.0,no,no investment, - ,0,no investment
+Cartooneria,13,1,2016-10-10,2017-01-26,300000,0.2,1500000.0, 300000.00 ,0.5,no,participation,600000,1,João Appolinário
+FreeCô,13,1,2016-10-10,2017-01-26,1500000,0.1,15000000.0,0,0.0,no,no investment, - ,0,no investment
+O amor é simples,13,1,2016-10-10,2017-01-26,200000,0.1,2000000.0,0,0.0,no,no investment, - ,0,no investment
+Noocity,13,1,2016-10-10,2017-01-26,350000,0.1,3500000.0,0,0.0,no,no investment, - ,0,no investment
+Natural Science,14,1,2016-10-10,2017-01-26,400000,0.2,2000000.0, 400000.00 ,0.5,no,participation,800000,1,Carlos Wizard Martins
+PetiteBox,14,1,2016-10-10,2017-01-26,600000,0.05,12000000.0,0,0.0,no,no investment, - ,0,no investment
+Piipee,14,1,2016-10-10,2017-01-26,500000,0.1,5000000.0,0,0.0,no,no investment, - ,0,no investment
+Feitosa Gourmet,14,1,2016-10-10,2017-01-26,120000,0.25,480000.0,0,0.0,no,help, - ,1,Carlos Wizard Martins
+Rays Pedal,15,1,2016-10-10,2017-01-26,500000,0.15,3333333.33,0,0.0,no,no investment, - ,0,no investment
+Cadeirinha Smart,15,1,2016-10-10,2017-01-26,50000,0.1,500000.0, 50000.00 ,0.5,no,participation,100000,1,João Appolinário
+Tarte Fit,15,1,2016-10-10,2017-01-26,100000,0.1,1000000.0,0,0.0,no,no investment, - ,0,no investment
+Safari,15,1,2016-10-10,2017-01-26,480000,0.2,2400000.0,0,0.0,no,no investment, - ,0,no investment
+Banho Bungee,16,1,2016-10-10,2017-01-26,100000,0.4,250000.0, 150000.00 ,0.5,no,participation,300000,1,João Appolinário
+Triple Horn,16,1,2016-10-10,2017-01-26,490000,0.25,1960000.0,0,0.0,no,no investment, - ,0,no investment
+Spin'n Soul,16,1,2016-10-10,2017-01-26,7500000,0.3,25000000.0,0,0.0,no,no investment, - ,0,no investment
+Moradigna,16,1,2016-10-10,2017-01-26,300000,0.1,3000000.0, 300000.00 ,0.0,no,loan, - ,5,João Appolinário + Cristiana Arcangeli + Robinson Shiba + Sorocaba + Camila Farani
+O Pedido,1,2,2017-06-22,2017-09-14,300000,0.2,1500000.0,0,0.0,no,no investment, - ,0,Nenhum
+Cartone,1,2,2017-06-22,2017-09-14,300000,0.2,1500000.0,0,0.0,no,no investment, - ,0,Nenhum
+Alfa Look's,1,2,2017-06-22,2017-09-14,5,0.3,16.67, 5.00 ,0.3,no,participation,16.67,1,João Appolinário
+Green Pallets,2,2,2017-06-22,2017-09-14,150000,0.1,1500000.0, 150000.00 ,0.2,no,participation,750000,2,Caito Maia + Camila Farani
+Cannoli do Calimano,2,2,2017-06-22,2017-09-14,150000,0.3,500000.0,0,0.0,no,no investment, - ,0,Nenhum
+Cat My Pet,2,2,2017-06-22,2017-09-14,400000,0.15,2666666.67,0,0.0,no,no investment, - ,0,Nenhum
+Robotron,2,2,2017-06-22,2017-09-14,330000,0.25,1320000.0, 330000.00 ,0.33,yes,participation,1000000,1,João Appolinário
